@@ -1,16 +1,10 @@
-# flutter_application_1
+To-Do Application
+This To-Do app is a robust task management solution, built using Flutter and Dart for cross-platform compatibility.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Task Management: Add, edit, and delete tasks with prioritization (Low, Medium, High).
+Timer Integration: Set task durations with real-time progress tracking.
+Completed Tasks: Automatically tracks and organizes completed tasks for review.
+User Interface: Intuitive, responsive, and designed with Material Design principles.
+Drawer Navigation: Quick access to Tasks, Completed Tasks, and Settings.
+Scalability: Modular design ensures easy expansion for future enhancements.
+Efficient, user-friendly, and lightweight, this app is perfect for staying productive on the go.
